@@ -10,7 +10,7 @@ Before you begin, please make sure to study the [prerequisites](/PREREQUISITES.m
 ## Install CopilotStudioAccelerator.zip
 
 1. Go to **[make.powerapps.com](https://make.powerapps.com/)**
-1. Select to the **environment** in which you want to install the Power CAT Copilot Studio Kit.
+1. Select the **environment** in which you want to install the Power CAT Copilot Studio Kit.
 1. Go to **Solutions**
 1. Select **Import Solution**
 1. Select **Browse**
